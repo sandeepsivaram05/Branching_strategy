@@ -1,4 +1,4 @@
-name: example-workflow
+name: example-workflow1
 on: [push]
 jobs:
   production-deploy:
